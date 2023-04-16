@@ -25,6 +25,10 @@ We look forward to engaging with you and building a thriving community together.
 
 These guidelines aim to create a safe, supportive, and inclusive environment for all members of the CNCF Kolkata Chapter community.
 
+# 💬 Community Chat: 
+
+[Join the Discussion](https://github.com/orgs/cncfugkol/discussions/new/choose)
+
 # ✨ Virtual Meetups:
 
 - Friday : One Hour Community Networking Call.
