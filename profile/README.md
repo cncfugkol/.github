@@ -52,10 +52,10 @@ These guidelines aim to create a safe, supportive, and inclusive environment for
 
 # 📱 Follow us: 
 
-- Announcement Group: [Join](https://chat.whatsapp.com/FfRZzC9wmpiJsWd0xO95fQ)
-- LinkedIn: [Join](https://www.linkedin.com/company/cncfugkol/)
-- Twitter: [Join](https://twitter.com/cncfugkol)
-- FaceBook: [Join](https://www.facebook.com/cncfugkol)
+- 🟢 Announcement Group: [Join](https://chat.whatsapp.com/FfRZzC9wmpiJsWd0xO95fQ)
+- 🔴 LinkedIn: [Join](https://www.linkedin.com/company/cncfugkol/)
+- 🔵 Twitter: [Join](https://twitter.com/cncfugkol)
+- ⚪ FaceBook: [Join](https://www.facebook.com/cncfugkol)
 
 
 Regards,
