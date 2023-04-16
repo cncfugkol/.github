@@ -36,7 +36,7 @@ These guidelines aim to create a safe, supportive, and inclusive environment for
 
 # 🚧 Got queries?
 
-- [Write us](https://t.me/thebarshablog)
+- [Write to us](https://t.me/thebarshablog)
 
 # 🌱 Want to start an initiative?
 
