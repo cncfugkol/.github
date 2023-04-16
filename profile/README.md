@@ -52,9 +52,9 @@ These guidelines aim to create a safe, supportive, and inclusive environment for
 
 Regards,
 
-[Barsha Das](https://bio.link/thebarshablog), Chapter Lead & Organizer (2021- Present)
-[Nishant Minerva](https://www.linkedin.com/in/nishantminerva/), Lead Organizer (2023- Present)
-[Soumyadeep Mandal](https://www.linkedin.com/in/imsampro/)
+- ![bd-fav](https://user-images.githubusercontent.com/103309340/232305362-9117c2b6-a36e-4347-9690-60d2533ed9e9.png)[Barsha Das](https://bio.link/thebarshablog),Chapter Lead & Organizer (2021- Present)
+- [Nishant Minerva](https://www.linkedin.com/in/nishantminerva/), Lead Organizer (2023- Present)
+- [Soumyadeep Mandal](https://www.linkedin.com/in/imsampro/)
 
 
 
