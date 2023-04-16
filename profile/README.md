@@ -25,10 +25,14 @@ We look forward to engaging with you and building a thriving community together.
 
 These guidelines aim to create a safe, supportive, and inclusive environment for all members of the CNCF Kolkata Chapter community.
 
-# ✨ Virtual Sessions:
+# ✨ Virtual Meetups:
 
 - Friday : One Hour Community Networking Call.
 - Saturday : One Hour Educational Content/ Hands-On Workshops/ LIVE sessions/ Podcasts 
+
+# 🎪 In-person Meetups: 
+
+- [Join to be notified](https://community.cncf.io/kolkata/)
 
 #  🌈 Interested in collaboration?
 
