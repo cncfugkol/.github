@@ -27,7 +27,7 @@ These guidelines aim to create a safe, supportive, and inclusive environment for
 
 # 💬 Community Chat: 
 
-[Join the Discussion](https://github.com/orgs/cncfugkol/discussions/new/choose)
+- [Join the Discussion](https://github.com/orgs/cncfugkol/discussions/new/choose)
 
 # ✨ Virtual Meetups:
 
