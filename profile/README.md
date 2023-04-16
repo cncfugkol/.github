@@ -25,10 +25,36 @@ We look forward to engaging with you and building a thriving community together.
 
 These guidelines aim to create a safe, supportive, and inclusive environment for all members of the CNCF Kolkata Chapter community.
 
+# ✨ Virtual Sessions:
+
+- Friday : One Hour Community Networking Call.
+- Saturday : One Hour Educational Content/ Hands-On Workshops/ LIVE sessions/ Podcasts 
+
+#  🌈 Interested in collaboration?
+
+- [Drop a Message](https://t.me/thebarshablog)
+
+# 🚧 Got queries?
+
+- [Write us](https://t.me/thebarshablog)
+
+# 🌱 Want to start an initiative?
+
+- [Contact](https://t.me/thebarshablog)
+
 # 📱 Follow us: 
 
 - Announcement Group: [Join](https://chat.whatsapp.com/FfRZzC9wmpiJsWd0xO95fQ)
 - LinkedIn: [Join](https://www.linkedin.com/company/cncfugkol/)
 - Twitter: [Join](https://twitter.com/cncfugkol)
 - FaceBook: [Join](https://www.facebook.com/cncfugkol)
+
+
+Regards,
+
+[Barsha Das](https://bio.link/thebarshablog), Chapter Lead & Organizer (2021- Present)
+[Nishant Minerva](https://www.linkedin.com/in/nishantminerva/), Lead Organizer (2023- Present)
+[Soumyadeep Mandal](https://www.linkedin.com/in/imsampro/)
+
+
 
