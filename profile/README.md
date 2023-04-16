@@ -52,9 +52,9 @@ These guidelines aim to create a safe, supportive, and inclusive environment for
 
 Regards,
 
-- ![bd-fav](https://user-images.githubusercontent.com/103309340/232305362-9117c2b6-a36e-4347-9690-60d2533ed9e9.png)[Barsha Das](https://bio.link/thebarshablog),Chapter Lead & Organizer (2021- Present)
-- [Nishant Minerva](https://www.linkedin.com/in/nishantminerva/), Lead Organizer (2023- Present)
-- [Soumyadeep Mandal](https://www.linkedin.com/in/imsampro/)
+- ![bd-fav](https://user-images.githubusercontent.com/103309340/232305362-9117c2b6-a36e-4347-9690-60d2533ed9e9.png) [Barsha Das](https://bio.link/thebarshablog),Chapter Lead & Organizer (2021- Present)
+- ![nm-fav](https://user-images.githubusercontent.com/103309340/232305397-66859acb-4916-411a-b2d0-21903a7ea191.png) [Nishant Minerva](https://www.linkedin.com/in/nishantminerva/), Lead Organizer (2023- Present)
+- ![sm-fav](https://user-images.githubusercontent.com/103309340/232305412-f0694fc8-3110-45a4-92e1-e4fc649fc228.png) [Soumyadeep Mandal](https://www.linkedin.com/in/imsampro/)
 
 
 
